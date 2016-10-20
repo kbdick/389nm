@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "389nm"
+title: 389nm
 email: kdick@389nm.com
-description: 389nm, LLC is a sustainability consultancy focused on helping clients be sustainability leaders in their industry. 389nm, LLC staff have a passion for next generation proven technology and trends, creating value for clients by being one step ahead of the competition. Services include certifications, technology piloting, prototyping, long-term planning, and facilitation.
+description: 389nm, LLC is a sustainability consultancy focused on helping clients be sustainability leaders in their industry. 389nm, LLC staff have a passion for next generation proven technology and trends, creating value for clients by being one step ahead of the competition. Services include certifications, technology piloting, prototyping, long-term planning and facilitation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://389nm.com" # the base hostname & protocol for your site
+url: "https://threeeightyninenm-kbdick.c9users.io" # the base hostname & protocol for your site
 twitter_username: unpopscientist
 github_username:  kbdick
 
